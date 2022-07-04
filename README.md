@@ -1,8 +1,8 @@
 # Hello there, I'm Rayen! 👋
 
-<img width="41%" align="left" src="https://github-readme-stats.vercel.app/api?username=Hiviexd&show_icons=true&theme=radical" />
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Hiviexd&show_icons=true&theme=radical" />
 
-<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 ## Mainly interested in working with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
