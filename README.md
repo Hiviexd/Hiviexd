@@ -1,8 +1,12 @@
 # Hello there, I'm Rayen! 👋
 
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Hiviexd&show_icons=true&theme=radical" />
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Joehuu&theme=github_dark" />
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img width="47%" align="left" src="https://streak-stats.demolab.com?user=hiviexd&theme=github-dark-blue&mode=weekly" />
+
+<!-- [![Hiviexd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiviexd&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hiviexd&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+<!-- <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> -->
 
 ## Mainly interested in working with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
