@@ -3,7 +3,7 @@
 I'm a Full-stack web developer and a Computer Science undergrad who's reguarly contributing to osu!-related projects.
 
 [![Hivie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiviexd&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hiviexd&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hiviexd&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 <!-- <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> -->
 
 ## Mainly working with:
