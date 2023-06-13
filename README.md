@@ -1,6 +1,6 @@
 # Hello there, I'm Rayen! 👋
 
-I'm a Fullstack web developer and a Computer Science undergrad who's reguarly contributing to osu!-related projects.
+I'm a fullstack web developer and a Computer Science undergrad who's reguarly contributing to osu!-related projects.
 
 [![Hivie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiviexd&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hiviexd&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
@@ -15,6 +15,6 @@ I'm a Fullstack web developer and a Computer Science undergrad who's reguarly co
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 ## Contacts
-- E-mail: rayenattia@gmail.com
-- Discord: Hivie#0859
+- e-mail: rayenattia@gmail.com
+- Discord: hivie
 - osu!: https://osu.ppy.sh/users/14102976
