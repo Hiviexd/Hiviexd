@@ -2,9 +2,15 @@
 
 I'm a fullstack web developer, a compsci graduate, currently a software engineering student, and member of the [osu!team](https://osu.ppy.sh/wiki/en/People/osu%21_team).
 
-[![Hivie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiviexd&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hiviexd&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
-<!-- <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiviexd&layout=compact&theme=github_dark" /> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiviexd&theme=github_dark) -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hiviexd&theme=github_dark" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Hiviexd&theme=github-dark-blue&mode=weekly" />
+  </a>
+  <!-- <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiviexd&layout=compact&theme=github_dark" /> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiviexd&theme=github_dark) -->
+</div>
 
 ## Experience
 
