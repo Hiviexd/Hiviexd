@@ -1,5 +1,7 @@
 # 👋
 
+[![committers.top badge](https://user-badge.committers.top/tunisia_public/Hiviexd.svg)](https://user-badge.committers.top/tunisia_public/Hiviexd)
+
 I'm a fullstack web developer, a compsci graduate, currently a software engineering student, and member of the [osu!team](https://osu.ppy.sh/wiki/en/People/osu%21_team).
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
