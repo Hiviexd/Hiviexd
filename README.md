@@ -2,11 +2,13 @@
 
 [![committers.top badge](https://user-badge.committers.top/tunisia_public/Hiviexd.svg)](https://user-badge.committers.top/tunisia_public/Hiviexd)
 
-I'm a fullstack web developer, a compsci graduate, currently a software engineering student, and member of the [osu!team](https://osu.ppy.sh/wiki/en/People/osu%21_team).
+Software engineer and member of the [osu!team](https://osu.ppy.sh/wiki/en/People/osu%21_team).
+
+Visit [my portfolio](https://hivie.tn/) for a list of my projects, experience, and skills.
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hiviexd&theme=github_dark" style="height: 170px; width: auto;" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Hiviexd&rank_icon=rank&show_icons=true&include_all_commits=true&theme=github_dark" style="height: 170px; width: auto;" />
   </a>
 
   <a href="https://git.io/streak-stats">
@@ -15,6 +17,7 @@ I'm a fullstack web developer, a compsci graduate, currently a software engineer
   <!-- <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiviexd&layout=compact&theme=github_dark" /> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiviexd&theme=github_dark) -->
 </div>
 
+<!-- hiding for now
 ## Experience
 
 ### Languages
@@ -44,3 +47,4 @@ I'm a fullstack web developer, a compsci graduate, currently a software engineer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![OVHCloud](https://img.shields.io/badge/OVH%20Cloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
