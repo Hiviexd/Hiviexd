@@ -1,6 +1,6 @@
 # 👋
 
-[![committers.top badge](https://user-badge.committers.top/tunisia_public/Hiviexd.svg)](https://user-badge.committers.top/tunisia_public/Hiviexd)
+<!-- [![committers.top badge](https://user-badge.committers.top/tunisia_public/Hiviexd.svg)](https://user-badge.committers.top/tunisia_public/Hiviexd) -->
 
 Software engineer and member of the [osu!team](https://osu.ppy.sh/wiki/en/People/osu%21_team).
 
